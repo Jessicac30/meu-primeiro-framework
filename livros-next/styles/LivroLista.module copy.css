@@ -1,0 +1,62 @@
+.container {
+  background-color: #ffffff;
+}
+
+.titulo {
+  font-size: 24px;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.tableHeader {
+  background-color: black;
+  color: white;
+}
+
+.destaqueCinza {
+  background-color: #f3f3f3;
+}
+
+.destaqueBranco {
+  background-color: #dcdcdc;
+}
+
+.tableTitulo {
+  width: 20%;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.tableResumo {
+  width: 40%;
+  padding: 8px;
+  font-size: 6px;
+}
+
+.tableEditora {
+  width: 20%;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.tableAutores {
+  width: 20%;
+  padding: 8px;
+  font-size: 8px;
+}
+
+.excluirButton {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 4px;
+  border-radius: 4px;
+  font-size: 12px;
+}
